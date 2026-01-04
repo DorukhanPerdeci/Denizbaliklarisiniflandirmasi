@@ -132,7 +132,36 @@ Bu proje, balık görüntülerinden tür tahmin eden bir derin öğrenme modeli 
 
 🔍 Model, birçok sınıfı yüksek doğrulukla ayırt etmeyi başarır ve gerçek dünya görüntü sınıflandırma problemleri için iyi bir temel sağlar.
 
-<img width="1917" height="765" alt="Ekran görüntüsü 2026-01-04 135640" src="https://github.com/user-attachments/assets/4df9c053-de65-4747-8e76-9524a56165fd" />
+Modelden Görseller
+
+<img width="1911" height="907" alt="Ekran görüntüsü 2026-01-04 135732" src="https://github.com/user-attachments/assets/aad6e04e-275e-41d0-a7cd-54a5dcac9753" />
+
+<img width="1917" height="765" alt="Ekran görüntüsü 2026-01-04 135640" src="https://github.com/user-attachments/assets/d511c860-283c-44ab-bfaf-a27d6ed0afce" />
+
+<img width="1292" height="436" alt="Ekran görüntüsü 2026-01-04 135927" src="https://github.com/user-attachments/assets/32d1fb3d-c760-43ef-a21d-93e62b8612f5" />
+
+<img width="820" height="518" alt="Ekran görüntüsü 2026-01-04 135852" src="https://github.com/user-attachments/assets/aa647942-7e1a-4e55-a611-3cac29e43e04" />
+
+<img width="1045" height="905" alt="Ekran görüntüsü 2026-01-04 140336" src="https://github.com/user-attachments/assets/a248c332-42be-4606-bcc0-fb7f4110d330" />
+
+<img width="831" height="497" alt="Ekran görüntüsü 2026-01-04 135817" src="https://github.com/user-attachments/assets/01e39833-18fe-4d9b-8670-ac443ce100d2" />
+
+<img width="1912" height="857" alt="Ekran görüntüsü 2026-01-04 140455" src="https://github.com/user-attachments/assets/9edd69d7-bd8e-4cce-b0a6-44d9a5954472" />
+
+<img width="1918" height="893" alt="Ekran görüntüsü 2026-01-04 140224" src="https://github.com/user-attachments/assets/fd39f9d0-db3f-45ae-832f-64e1326a717c" />
+
+<img width="1912" height="787" alt="Ekran görüntüsü 2026-01-04 140056" src="https://github.com/user-attachments/assets/c8d2cb10-f4d5-4b50-a918-a8eebbf0d3c6" />
+
+<img width="1917" height="867" alt="Ekran görüntüsü 2026-01-04 140422" src="https://github.com/user-attachments/assets/23468e60-fbe3-436f-9dbd-5e9b42ea3891" />
+
+<img width="1915" height="902" alt="Ekran görüntüsü 2026-01-04 140013" src="https://github.com/user-attachments/assets/b808d22c-7ce1-4b5c-8781-64e829a99eb6" />
+
+<img width="1916" height="853" alt="Ekran görüntüsü 2026-01-04 140128" src="https://github.com/user-attachments/assets/58d9f35d-d9b5-40f4-a4b3-9b94a3db48e5" />
+
+<img width="1916" height="898" alt="Ekran görüntüsü 2026-01-04 140533" src="https://github.com/user-attachments/assets/6eaa8cf3-cb51-469c-9894-d281076245f3" />
+
+
+
 
 
 
