@@ -133,7 +133,7 @@ Bu proje, balık görüntülerinden tür tahmin eden bir derin öğrenme modeli 
 🔍 Model, birçok sınıfı yüksek doğrulukla ayırt etmeyi başarır ve gerçek dünya görüntü sınıflandırma problemleri için iyi bir temel sağlar.
 
 
-Egitim grafikleri ve başarı metrikleri
+# EGİTİM GRAFİKLERİ VE BASARİ METRİKLERİ
 
 
 <img width="1911" height="907" alt="Ekran görüntüsü 2026-01-04 135732" src="https://github.com/user-attachments/assets/aad6e04e-275e-41d0-a7cd-54a5dcac9753" />
